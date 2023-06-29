@@ -1,4 +1,4 @@
-# Servidor Hasura com GraphQL
+# Servidor Hasura com GraphQL - Grupo: Ana Carolina Diel, Ana Carolina Jungbluth, Isabella Gon e Marco Schneiders.
 
 ## Requisitos
 * .NET 6.0;
