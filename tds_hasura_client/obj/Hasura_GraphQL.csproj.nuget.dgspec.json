@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj": {}
+    "C:\\Users\\User\\Documents\\6 Período\\TDS\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj": {}
   },
   "projects": {
-    "D:\\Programação\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj": {
+    "C:\\Users\\User\\Documents\\6 Período\\TDS\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\6 Período\\TDS\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj",
         "projectName": "Hasura_GraphQL",
-        "projectPath": "D:\\Programação\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj",
-        "packagesPath": "C:\\Users\\drone\\.nuget\\packages\\",
-        "outputPath": "D:\\Programação\\GraphQL_Hasura\\tds_hasura_client\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\6 Período\\TDS\\GraphQL_Hasura\\tds_hasura_client\\Hasura_GraphQL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\6 Período\\TDS\\GraphQL_Hasura\\tds_hasura_client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\AppData\\Visual Studio\\VS Components\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\drone\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -83,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

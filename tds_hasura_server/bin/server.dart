@@ -33,7 +33,6 @@ void main(List<String> args) async {
     8085,
   );
 
-  // ignore: avoid_print
   print(
     'Server online: ${restServer.address.host} '
     '${restServer.address.address}:${restServer.port}',
